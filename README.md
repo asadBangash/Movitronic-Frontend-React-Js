@@ -1,2 +1,2 @@
-# Movitronic-Frontend-React-Js
-Movitronic Application frontend 
+# Frontend-Admin-Panel---VueJS
+Frontend admin panel built on vuejs
