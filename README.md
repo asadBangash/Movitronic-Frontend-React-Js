@@ -1,2 +1,2 @@
-# Frontend-Admin-Panel---VueJS
-Frontend admin panel built on vuejs
+# Frontend-Admin-Panel---ReactJs
+Frontend admin panel built on ReactJs
